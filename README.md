@@ -1,2 +1,1 @@
-# TP2
-Repositorio para el contenido del TP2
+# tp-2-costa
